@@ -6,10 +6,10 @@ import requests
 # ?? CONFIGURATION - EDIT THESE SETTINGS
 # ==========================================
 # 1. Get your Bot Token from @BotFather on Telegram
-TELEGRAM_BOT_TOKEN = "PUT_YOUR_TELEGRAM_BOT_TOKEN_HERE"
+TELEGRAM_BOT_TOKEN = "8870753909:AAFs1G4DLv9KsQ_Lyc9Y1I5rGRjVKIWyF6k"
 
 # 2. Paste the API Key you purchased
-NFTOKEN_API_KEY = "PUT_YOUR_API_KEY_HERE"
+NFTOKEN_API_KEY = "NFK_74d955e05877d17a1b956a08"
 
 # 3. The API Gateway URL
 API_URL = "https://nftoken.site/v1/api.php"
