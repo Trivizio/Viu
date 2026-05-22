@@ -9,7 +9,7 @@ import requests
 TELEGRAM_BOT_TOKEN = "8870753909:AAFs1G4DLv9KsQ_Lyc9Y1I5rGRjVKIWyF6k"
 
 # 2. Paste the API Key you purchased
-NFTOKEN_API_KEY = "NFK_74d955e05877d17a1b956a08"
+NFTOKEN_API_KEY = "NFK_f5010a8c0459ff61be98e126"
 
 # 3. The API Gateway URL
 API_URL = "https://nftoken.site/v1/api.php"
